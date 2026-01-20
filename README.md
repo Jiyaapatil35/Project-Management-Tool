@@ -3,11 +3,11 @@
 A **Web-Based Project Management Tool** developed as an academic project to streamline project planning, task assignment, progress tracking, and team collaboration.  
 The system supports multiple user roles, including Project Owner, Project Manager, and Team Members, providing a centralized platform for efficient project execution.
 
-> **Academic Project**  
-> **Team size:** 5 members  
-> **Timeline:** Sept 2025 – Jan 2026  
-> **Semester:** 5
-
+> **Academic Project | 5th Semester**  
+> **Duration:** September 2025 – January 2026  
+> **Team Size:** 5 Members  
+> **Role:** Frontend Developer
+> **Tech Stack:** Node.js · Express · MongoDB (MERN Stack)
 
 ## Project Overview
 
@@ -71,4 +71,5 @@ node server.js
 Open your browser and go to:
 `http://localhost:3000`
 
-Enjoy managing your projects efficiently!
+
+*Enjoy managing your projects efficiently!*
